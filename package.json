@@ -1,0 +1,34 @@
+{
+  "name": "mvc-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a simple boilerplate to use in rest apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheussla/mvc-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheussla/mvc-boilerplate/issues"
+  },
+  "homepage": "https://github.com/matheussla/mvc-boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "editorconfig": "^0.15.3",
+    "express": "^4.17.1",
+    "joi": "^17.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "eslint": "^6.2.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
